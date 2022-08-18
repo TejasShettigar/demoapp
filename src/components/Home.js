@@ -1,11 +1,21 @@
 const Home =  () => {
 
-
-const Tezz = `YO Bro Hi asa'saSa`
     return (
-        <>
-        <h1> {Tezz}  </h1>
-        </>
-    )
+        <div>   
+            <h1>Home</h1>
+            <h2>Welcome to the home page</h2>
+            <p> Hey There</p>
+        </div>
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   );
 }
+
  export default Home;
