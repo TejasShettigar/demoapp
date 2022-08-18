@@ -3,7 +3,7 @@ import React from 'react'
 export const Header = () => {
   return (
     <h2>
-        Expese Tracker
+        Yash CDRY Hutiya
         </h2>
   )
 }
